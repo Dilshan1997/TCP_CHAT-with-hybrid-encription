@@ -47,23 +47,23 @@ The cipher object has a read-only attribute nonce.
 
 ##If you want to execute this code, do below steps
 
-**First install th python**
+1. First install th python
 Visit this  site install - [https://www.python.org/downloads/]
 
-**Then install library that given below**
-Using this commands to install those library
+2. Then install library that given below
+Using this commands to install the library
   ```sh
  pip install pycrptodome
   ```
   
- **Then you goto folder that pyhton install then copy the hybrid.py into the Lib file**
+ 3. Then you goto folder that pyhton install then copy the hybrid.py into the Lib file
  **After you can goto the path that repo store using cmd**
  **Then you can run first Server using cmd**
  
   ```sh
  python server.py
   ```
- **Then you can run the client files using several cmd**
+ 4. Then you can run the client files using several cmd
  
   ```sh
  python client.py
