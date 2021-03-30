@@ -59,10 +59,12 @@ Using this commands to install those library
  **Then you goto folder that pyhton install then copy the hybrid.py into the Lib file**
  **After you can goto the path that repo store using cmd**
  **Then you can run first Server using cmd**
+ 
    ```sh
  python server.py
   ```
  **Then you can run the client files using several cmd**
+ 
     ```sh
  python client.py
   ```
