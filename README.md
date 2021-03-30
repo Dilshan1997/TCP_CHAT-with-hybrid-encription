@@ -58,7 +58,7 @@ Using this commands to install the library
   
  3. Then you goto folder that pyhton install then copy the hybrid.py into the Lib file
  **After you can goto the path that repo store using cmd**
- **Then you can run first Server using cmd**
+ **Then you can run Server using cmd**
  
   ```sh
  python server.py
