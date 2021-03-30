@@ -60,11 +60,11 @@ Using this commands to install those library
  **After you can goto the path that repo store using cmd**
  **Then you can run first Server using cmd**
  
-   ```sh
+  ```sh
  python server.py
   ```
  **Then you can run the client files using several cmd**
  
-    ```sh
+  ```sh
  python client.py
   ```
