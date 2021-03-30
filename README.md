@@ -45,7 +45,7 @@ a GCM cipher object
 
 The cipher object has a read-only attribute nonce.
 
-##If you want to execute this code, do below steps
+## If you want to execute this code, do below steps
 
 1. First install th python
 Visit this  site install - [https://www.python.org/downloads/]
