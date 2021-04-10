@@ -1,12 +1,7 @@
 # TCP_CHAT-with-hybrid-encription
 
-# Hybrid-encryption
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ## Main contents of the project
 
 1. What is the hybrid system and cryptography schema
